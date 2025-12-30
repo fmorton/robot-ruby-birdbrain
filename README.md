@@ -6,7 +6,7 @@ This Ruby library allows students to use Ruby to read sensors and set motors and
 
 For more information about setting up the BlueBird Connector used with their Python library, see https://learn.birdbraintechnologies.com/hummingbirdbit/python/?portal=1
 
-RubyDoc files are available at https://rubydoc.info/github/fmorton/BirdBrain-Ruby-Library
+RubyDoc files are available at https://rubydoc.info/github/fmorton/robot-ruby-library
 
 ## Installation
 
@@ -81,7 +81,7 @@ sleep(1)
 finch.disconnect
 ```
 
-RubyDoc files are available at https://rubydoc.info/github/fmorton/BirdBrain-Ruby-Library
+RubyDoc files are available at https://rubydoc.info/github/fmorton/robot-ruby-library
 
 ## Development
 
@@ -91,7 +91,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/fmorton/BirdBrain-Ruby-Library.
+Bug reports and pull requests are welcome on GitHub at https://github.com/fmorton/robot-ruby-library.
 
 ## License
 
