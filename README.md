@@ -1,4 +1,4 @@
-# Birdbrain-Ruby-Library
+# robot-ruby-birdbrain
 
 Ruby Library for the BirdBrainTechnologies Hummingbird Bit and Finch 2
 
