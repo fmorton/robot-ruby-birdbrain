@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
   spec.description   = 'This Ruby library allows students to use Ruby to read sensors and set motors and LEDs with the '\
                       'Birdbrain Technologies Hummingbird Bit and Finch 2. To use Ruby with the Hummingbird Bit or '\
                       'Finch 2, you must connect via bluetooth with the BlueBird Connector.'
-  spec.homepage      = 'https://github.com/fmorton/robot-ruby-library'
+  spec.homepage      = 'https://github.com/fmorton/robot-ruby-birdbrain'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.7.0')
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
   spec.metadata['homepage_uri'] = spec.homepage
-  spec.metadata['source_code_uri'] = 'https://github.com/fmorton/robot-ruby-library'
-  spec.metadata['changelog_uri'] = 'https://github.com/fmorton/robot-ruby-library/CHANGELOG.md'
+  spec.metadata['source_code_uri'] = 'https://github.com/fmorton/robot-ruby-birdbrain'
+  spec.metadata['changelog_uri'] = 'https://github.com/fmorton/robot-ruby-birdbrain/CHANGELOG.md'
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
